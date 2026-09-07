@@ -1,29 +1,35 @@
-# Aidamir | Works
+# Aidamir
 
-Сайты, Telegram-боты, Mini Apps и веб-приложения под ключ.
+Сайты и Telegram-сервисы для бизнеса.
+Без студии и без прослоек.
 
-Контакт: [@aidamir01921](https://t.me/aidamir01921)  
-Канал: [t.me/aidamir_works](https://t.me/aidamir_works)
+**Telegram:** [@aidamir01921](https://t.me/aidamir01921)  
+**Канал:** [aidamir_works](https://t.me/aidamir_works)
 
-## Что делаю
+---
 
-- сайты: лендинг, визитка, многостраничник с админкой
-- Telegram-боты: заявки, анкеты, каталог, запись
-- Telegram Mini Apps: запись, каталог, заявка внутри Telegram
-- доработка старых сайтов на конструкторах
+## Работа, которую можно открыть
 
-## Кейсы
+### БараБум — школа африканских барабанов, Ставрополь
+Перенос со старого конструктора на свой хостинг.  
+Услуги, события с автоскрытием, галерея, админка, мобильная версия.
 
-| Проект | Тип | Ссылка |
-|---|---|---|
-| БараБум — школа барабанов, Ставрополь | сайт клиента | [demo](https://wonderful-centaur-ac072f.netlify.app/) |
-| Photography | сайт-портфолио | [demo](https://arianasite.netlify.app/) |
-| Каталог в Telegram | демо-бот | [@demobyaidamirbot](https://t.me/demobyaidamirbot) |
-| Анкета в Telegram | демо-бот | [@anketabyaidamirbot](https://t.me/anketabyaidamirbot) |
-| Заявки в Telegram | демо-бот | [@aidamirdemobot](https://t.me/aidamirdemobot) |
+→ [wonderful-centaur-ac072f.netlify.app](https://wonderful-centaur-ac072f.netlify.app/)
 
-Код демо: [боты](https://github.com/Aidamir01293/demo-telegram-bots) · [Mini App](https://github.com/Aidamir01293/demo-telegram-miniapp)
+### Telegram-боты
 
-## Стек
+| Сценарий | Бот |
+|---|---|
+| Каталог и заказ | [@demobyaidamirbot](https://t.me/demobyaidamirbot) |
+| Анкета | [@anketabyaidamirbot](https://t.me/anketabyaidamirbot) |
+| Заявка админу | [@aidamirdemobot](https://t.me/aidamirdemobot) |
 
-HTML · CSS · JavaScript · PHP · Python / Aiogram · Telegram Web App API
+Python, Aiogram.
+
+---
+
+## Что беру
+
+Сайт под заявки, перенос с конструктора, Telegram-бот, Mini App внутри Telegram.
+
+Срок и цену говорю после того, как посмотрю задачу.
